@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis-Python-Power-BI-
+# Customer-Segmentation-Analysis-Python-Power-BI
 
 ## Project Overview
 
