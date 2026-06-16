@@ -3,7 +3,9 @@
 ## Project Overview
 
 This project demonstrates an end-to-end customer analytics workflow using Python and Power BI to identify high-value customers based on their purchasing behavior.
+
 The solution applies RFM (Recency, Frequency, Monetary) analysis on dealer purchase data to segment customers into actionable business groups and provide interactive insights through a Power BI dashboard.
+
 The project simulates a real-world business scenario where sales and marketing teams need to identify loyal customers, improve retention, and increase customer engagement.
 
 ---
