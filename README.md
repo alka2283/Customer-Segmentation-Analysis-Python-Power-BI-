@@ -68,7 +68,11 @@ Generated actionable insights to support:
 * Customer Retention Strategies
 * Loyalty Program Planning
 * Sales Team Targeting
+---
+## Project Files
 
+📓 Jupyter Notebook: [Champion_Club_RFM_Analysis.ipynb.ipynb](Champion_Club_RFM_Analysis.ipynb)
+---
 ## Tech Stack
 * 🐍 Python (Pandas, NumPy)
 * 📊 Power BI
