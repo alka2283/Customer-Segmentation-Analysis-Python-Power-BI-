@@ -103,3 +103,5 @@ Generated actionable insights to support:
 ## Result
 
 This project demonstrates how Python-based customer analytics can be integrated with Power BI reporting to create a complete business intelligence solution for customer segmentation, retention analysis, and strategic decision-making.
+
+![Champion Club RFM Dashboard](Champion%20Club%20RFM%20Dashboard.png)
